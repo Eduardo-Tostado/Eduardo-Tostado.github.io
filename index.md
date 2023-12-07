@@ -5,7 +5,7 @@ This is my home page! My name is Eduardo Tostado and I am a student at Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Eduardo-Tostado
+My GitHub page is http://github.com/Eduardo-Tostado.
 
 ### CPSC 120
 
