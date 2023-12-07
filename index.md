@@ -1,7 +1,7 @@
 
 # Eduardo Tostado's Portfolio
 
-Hello, I am a computer science major at CSUF and I plan on graduating in 2026
+Hello, I am a computer science major at CSUF and I plan on graduating in 2026.
 
 ## Favorite CPSC 120L Labs
 
