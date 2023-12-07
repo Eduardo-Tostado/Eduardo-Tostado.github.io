@@ -1,9 +1,13 @@
 
-# Eduardo Tostado's Portfolio
+# Hello World
 
-Hello, I am a computer science major at CSUF and I plan on graduating in 2026.
+This is my home page! My name is Eduardo Tostado and I am a student at Cal State Fullerton (http://www.fullerton.edu) and my major is computer science.
 
-## Favorite CPSC 120L Labs
+## Computer Science Projects
+
+My GitHub page is http://github.com/Eduardo-Tostado
+
+### CPSC 120
 
 * Lab 6, Part 2
 
